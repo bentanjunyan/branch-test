@@ -6,5 +6,6 @@ writeFile('data.json', name, (err) => console.error('err ->', err));
   
 console.log(`good day ${name}, are you well?`);
 
+console.log('hello david was here')
 
 
